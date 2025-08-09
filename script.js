@@ -1,3 +1,5 @@
+'use strict';
+console.log('script.js v3.2.2 loaded');
 
 'use strict';
 (function(){
@@ -78,7 +80,7 @@
       '<section class="card"><h2>Profilo</h2>'
       + '<p><b>Punti:</b> '+state.points+'</p><p><b>Streak:</b> '+state.streak+'</p><p><b>Lezioni completate:</b> '+completedCount+'/14</p>'
       + '<div style="display:flex;gap:8px;flex-wrap:wrap"><button id="exportCsv" class="secondary">Esporta risultati (CSV)</button><button id="reset" class="danger">Azzera progressi</button></div>'
-      + '<p class="muted" style="margin-top:8px">L’export include: giorno, quiz, tipo, esito, punti e timestamp.</p></section>'
+      + '<p class="muted" style="margin-top:8px">L'export include: giorno, quiz, tipo, esito, punti e timestamp.</p></section>'
       + renderDaySelector();
     view.querySelector('#reset').addEventListener('click', function(){
       if(confirm('Sei sicuro di voler azzerare i progressi?')){ localStorage.removeItem(LS_KEY); location.reload(); }
@@ -286,7 +288,7 @@
 
     days.push({ // D2
       title:"Números e Idade",
-      goals:["numeri 0–20","dire l’età","chiedere prezzi"],
+      goals:["numeri 0–20","dire l'età","chiedere prezzi"],
       vocab:[
         {pt:"zero",it:"zero"},{pt:"um/uma",it:"uno/una"},{pt:"dois/duas",it:"due"},{pt:"três",it:"tre"},{pt:"quatro",it:"quattro"},
         {pt:"cinco",it:"cinque"},{pt:"seis",it:"sei"},{pt:"sete",it:"sette"},{pt:"oito",it:"otto"},{pt:"nove",it:"nove"},{pt:"dez",it:"dieci"},{pt:"idade",it:"età"}

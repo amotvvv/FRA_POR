@@ -1,9 +1,9 @@
-const CACHE_NAME = 'pt-pwa-cache-v2';
+const CACHE_NAME = 'pt-pwa-cache-v3';
 const ASSETS = [
   './',
   './index.html',
   './style.css',
-  './script.js?v=3.2.1',
+  './script.js?v=3.2.2',
   './manifest.json',
   './icon-192.png',
   './icon-512.png'
