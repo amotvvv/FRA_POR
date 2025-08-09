@@ -1,0 +1,45 @@
+/* Tema giallo scuro */
+:root {
+  --brand: #b8860b;
+  --brand-ink: #3b2e05;
+  --ink: #222;
+  --bg: #f7f6f1;
+  --card: #ffffff;
+  --border: #e6e0cf;
+}
+* { box-sizing: border-box; }
+body { margin:0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; background: var(--bg); color: var(--ink); }
+.hdr { background: var(--brand); color:#fff; padding: 10px 16px; position: sticky; top:0; }
+.hdr-top { display:flex; justify-content:space-between; align-items:center; gap:8px; }
+h1 { margin:0; font-size: 18px; }
+.tabs { display:flex; gap:8px; margin-top:8px; flex-wrap:wrap; }
+.tab { background: rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.35); color:#fff; padding:8px 10px; border-radius:8px; cursor:pointer; }
+.tab.active { background:#fff; color: var(--brand-ink); }
+main { padding:12px; }
+.card { background: var(--card); border:1px solid var(--border); border-radius:12px; padding:12px; box-shadow:0 1px 0 rgba(16,24,40,.04); margin-bottom:12px; }
+.card.slim { padding:8px; }
+h2 { margin:4px 0 8px; font-size:18px; }
+h3 { margin:8px 0 6px; font-size:16px; color: var(--brand-ink); }
+.muted { color:#666; font-size:13px; }
+ul.kv, ul.phr, ul.verbs, ul.list { padding-left:18px; }
+.kv .pt { font-weight:600; }
+.phr li { margin:6px 0; }
+.verbs code { font-weight:600; }
+.quiz { border:1px dashed var(--border); border-radius:10px; padding:10px; margin:10px 0; }
+.quiz p { margin:6px 0 10px; }
+.match-row { display:flex; gap:8px; align-items:center; margin:6px 0; }
+.token { margin:4px 4px 0 0; padding:6px 8px; border:1px solid var(--border); border-radius:6px; background:#fcfbf6; cursor:pointer; }
+.build { min-height:24px; margin:8px 0; padding:6px; border:1px solid var(--border); border-radius:6px; background:#fffdf3; }
+.btn-check, .btn-clear, #mark-done, .secondary { padding:8px 10px; border:1px solid var(--border); border-radius:8px; background:#fff; cursor:pointer; margin-right:6px; }
+.audio { padding:2px 8px; border:1px solid var(--border); border-radius:20px; background:#fff; cursor:pointer; margin-left:6px; }
+.opt { margin-right:10px; }
+.inp { padding:8px; border:1px solid var(--border); border-radius:8px; width:100%; max-width:360px; }
+.qmsg { margin-top:6px; font-size:14px; }
+.qmsg.ok { color:#1a7f37; }
+.qmsg.err { color:#b42318; }
+.list { list-style:none; padding:0; }
+.list li { margin:6px 0; }
+.aslink { background:none; border:none; color:#0a66c2; text-decoration:underline; cursor:pointer; }
+.danger { background:#fff; border:1px solid #b42318; color:#b42318; }
+.daily { margin-top:10px; }
+.meta span { margin-left:8px; }
