@@ -1,0 +1,1848 @@
+[
+  {
+    "title": "Lição 1 — Saudações e apresentações",
+    "vocab": [
+      {
+        "pt": "Olá",
+        "it": "Ciao"
+      },
+      {
+        "pt": "Bom dia",
+        "it": "Buongiorno"
+      },
+      {
+        "pt": "Boa tarde",
+        "it": "Buon pomeriggio"
+      },
+      {
+        "pt": "Boa noite",
+        "it": "Buonasera / Buonanotte"
+      },
+      {
+        "pt": "Por favor",
+        "it": "Per favore"
+      },
+      {
+        "pt": "Obrigado/Obrigada",
+        "it": "Grazie (m/f)"
+      }
+    ],
+    "phrases": [
+      "Olá! Eu <b>sou</b> Francesca. E tu, como te <b>chamas</b>?",
+      "Eu <b>moro</b> em Ponta Delgada e <b>estudo</b> português.",
+      "Muito prazer! <b>É</b> um gosto <b>conhecer</b>-te.",
+      "Eu <b>gosto</b> de aprender línguas todos os dias."
+    ],
+    "quizzes": [
+      {
+        "type": "multipleChoice",
+        "q": "Como se <b>diz</b> “Buongiorno” em português?",
+        "options": [
+          "Boa tarde",
+          "Bom dia",
+          "Boa noite",
+          "Olá"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "type": "fillBlank",
+        "q": "Completa: Eu ___ Francesca.",
+        "answer": "sou"
+      },
+      {
+        "type": "match",
+        "pairs": [
+          [
+            "Obrigado",
+            "Grazie"
+          ],
+          [
+            "Por favor",
+            "Per favore"
+          ],
+          [
+            "Olá",
+            "Ciao"
+          ]
+        ]
+      },
+      {
+        "type": "reorder",
+        "prompt": "Ordena a frase:",
+        "tokens": [
+          "Eu",
+          "sou",
+          "a",
+          "Francesca"
+        ],
+        "solution": [
+          "Eu",
+          "sou",
+          "a",
+          "Francesca"
+        ]
+      }
+    ],
+    "challenge": "Apresenta-te em 3 frases: nome, cidade e por que <b>estudas</b> português.",
+    "culturalNote": "Em Portugal, “Obrigado” é dito por quem <b>fala</b> (m.) e “Obrigada” por quem <b>fala</b> (f.)."
+  },
+  {
+    "title": "Lição 2 — Alfabeto e números",
+    "vocab": [
+      {
+        "pt": "A, B, C...",
+        "it": "A, B, C..."
+      },
+      {
+        "pt": "zero, um/uma, dois/duas",
+        "it": "zero, uno/una, due"
+      },
+      {
+        "pt": "três, quatro, cinco",
+        "it": "tre, quattro, cinque"
+      },
+      {
+        "pt": "seis, sete, oito",
+        "it": "sei, sette, otto"
+      },
+      {
+        "pt": "nove, dez",
+        "it": "nove, dieci"
+      },
+      {
+        "pt": "telefone",
+        "it": "telefono"
+      }
+    ],
+    "phrases": [
+      "Como se <b>soletra</b> o teu nome?",
+      "O meu número de telefone <b>é</b> 912 345 678.",
+      "Eu <b>tenho</b> dezassete anos.",
+      "<b>Conta</b> de um a dez em voz alta."
+    ],
+    "quizzes": [
+      {
+        "type": "multipleChoice",
+        "q": "Qual é o número ‘sete’?",
+        "options": [
+          "seis",
+          "sete",
+          "oito",
+          "nove"
+        ],
+        "correctIndex": 1
+      },
+      {
+        "type": "fillBlank",
+        "q": "Completa: Eu ___ 17 anos.",
+        "answer": "tenho"
+      },
+      {
+        "type": "match",
+        "pairs": [
+          [
+            "telefone",
+            "telefono"
+          ],
+          [
+            "nove",
+            "nove"
+          ],
+          [
+            "oito",
+            "otto"
+          ]
+        ]
+      },
+      {
+        "type": "reorder",
+        "prompt": "Ordena:",
+        "tokens": [
+          "Eu",
+          "tenho",
+          "17",
+          "anos"
+        ],
+        "solution": [
+          "Eu",
+          "tenho",
+          "17",
+          "anos"
+        ]
+      }
+    ],
+    "challenge": "Grava-te a <b>dizer</b> o alfabeto e conta de 0 a 10.",
+    "culturalNote": "Em Portugal, o ‘v’ <b>lê-se</b> “vê” e o ‘w’ <b>lê-se</b> “dábliu” (uso raro)."
+  },
+  {
+    "title": "Lição 3 — Família e pronomes",
+    "vocab": [
+      {
+        "pt": "mãe / pai",
+        "it": "madre / padre"
+      },
+      {
+        "pt": "irmã / irmão",
+        "it": "sorella / fratello"
+      },
+      {
+        "pt": "filha / filho",
+        "it": "figlia / figlio"
+      },
+      {
+        "pt": "avó / avô",
+        "it": "nonna / nonno"
+      },
+      {
+        "pt": "ela / ele",
+        "it": "lei / lui"
+      },
+      {
+        "pt": "nós / vocês / eles",
+        "it": "noi / voi / loro"
+      }
+    ],
+    "phrases": [
+      "Esta <b>é</b> a minha mãe e este <b>é</b> o meu pai.",
+      "Eu <b>tenho</b> uma irmã mais nova.",
+      "Nós <b>moramos</b> em Portugal, eles <b>moram</b> no Brasil.",
+      "Ela <b>estuda</b> e ele <b>trabalha</b>."
+    ],
+    "quizzes": [
+      {
+        "type": "multipleChoice",
+        "q": "‘irmão’ em italiano <b>é</b>…",
+        "options": [
+          "fratello",
+          "figlio",
+          "zio",
+          "nonno"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "fillBlank",
+        "q": "Completa: Nós ___ em Portugal.",
+        "answer": "moramos"
+      },
+      {
+        "type": "match",
+        "pairs": [
+          [
+            "mãe",
+            "madre"
+          ],
+          [
+            "avô",
+            "nonno"
+          ],
+          [
+            "filha",
+            "figlia"
+          ]
+        ]
+      },
+      {
+        "type": "reorder",
+        "prompt": "Ordena:",
+        "tokens": [
+          "Ela",
+          "estuda",
+          "e",
+          "ele",
+          "trabalha"
+        ],
+        "solution": [
+          "Ela",
+          "estuda",
+          "e",
+          "ele",
+          "trabalha"
+        ]
+      }
+    ],
+    "challenge": "Faz um pequeno ‘árvore’ da tua família e <b>descreve</b> 3 pessoas.",
+    "culturalNote": "Em Portugal usa-se muito ‘você’ de forma formal; entre jovens, <b>usa-se</b> ‘tu’."
+  },
+  {
+    "title": "Lição 4 — Rotina diária",
+    "vocab": [
+      {
+        "pt": "acordar",
+        "it": "svegliarsi"
+      },
+      {
+        "pt": "tomar pequeno-almoço",
+        "it": "fare colazione"
+      },
+      {
+        "pt": "almoçar",
+        "it": "pranzare"
+      },
+      {
+        "pt": "estudar",
+        "it": "studiare"
+      },
+      {
+        "pt": "trabalhar",
+        "it": "lavorare"
+      },
+      {
+        "pt": "dormir",
+        "it": "dormire"
+      }
+    ],
+    "phrases": [
+      "Eu <b>acordo</b> às sete e <b>tomo</b> o pequeno-almoço.",
+      "Depois <b>vou</b> à escola e <b>estudo</b> português.",
+      "À tarde eu <b>trabalho</b> num café.",
+      "À noite <b>janto</b> e <b>durmo</b> cedo."
+    ],
+    "quizzes": [
+      {
+        "type": "multipleChoice",
+        "q": "O que <b>significa</b> 'acordar'?",
+        "options": [
+          "svegliarsi",
+          "fare colazione",
+          "pranzare",
+          "studiare"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "fillBlank",
+        "q": "Completa: Eu ___ café ao pequeno-almoço.",
+        "answer": "bebo"
+      },
+      {
+        "type": "match",
+        "pairs": [
+          [
+            "tomar pequeno-almoço",
+            "fare colazione"
+          ],
+          [
+            "almoçar",
+            "pranzare"
+          ]
+        ]
+      },
+      {
+        "type": "reorder",
+        "prompt": "Ordena a frase:",
+        "tokens": [
+          "Eu",
+          "vou",
+          "à",
+          "loja",
+          "hoje"
+        ],
+        "solution": [
+          "Eu",
+          "vou",
+          "à",
+          "loja",
+          "hoje"
+        ]
+      }
+    ],
+    "challenge": "Usa 5 palavras de hoje numa frase longa sobre o teu dia.",
+    "culturalNote": "Em Portugal, muitas palavras têm variantes do Brasil; ambas <b>são</b> compreendidas."
+  },
+  {
+    "title": "Lição 5 — Comida e bebidas",
+    "vocab": [
+      {
+        "pt": "água",
+        "it": "acqua"
+      },
+      {
+        "pt": "pão",
+        "it": "pane"
+      },
+      {
+        "pt": "maçã",
+        "it": "mela"
+      },
+      {
+        "pt": "sumo",
+        "it": "succo"
+      },
+      {
+        "pt": "leite",
+        "it": "latte"
+      },
+      {
+        "pt": "chá",
+        "it": "tè"
+      }
+    ],
+    "phrases": [
+      "Eu <b>gosto</b> de <b>beber</b> chá ao pequeno-almoço.",
+      "Ao almoço <b>como</b> sopa e pão.",
+      "Eu <b>peço</b> um sumo de laranja, por favor.",
+      "Não <b>como</b> carne todos os dias."
+    ],
+    "quizzes": [
+      {
+        "type": "multipleChoice",
+        "q": "O que <b>significa</b> 'água'?",
+        "options": [
+          "acqua",
+          "pane",
+          "mela",
+          "succo"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "fillBlank",
+        "q": "Completa: Eu ___ café ao pequeno-almoço.",
+        "answer": "bebo"
+      },
+      {
+        "type": "match",
+        "pairs": [
+          [
+            "pão",
+            "pane"
+          ],
+          [
+            "maçã",
+            "mela"
+          ]
+        ]
+      },
+      {
+        "type": "reorder",
+        "prompt": "Ordena a frase:",
+        "tokens": [
+          "Eu",
+          "vou",
+          "à",
+          "loja",
+          "hoje"
+        ],
+        "solution": [
+          "Eu",
+          "vou",
+          "à",
+          "loja",
+          "hoje"
+        ]
+      }
+    ],
+    "challenge": "Usa 5 palavras de hoje numa frase longa sobre o teu dia.",
+    "culturalNote": "Em Portugal, muitas palavras têm variantes do Brasil; ambas <b>são</b> compreendidas."
+  },
+  {
+    "title": "Lição 6 — Cidade e direções",
+    "vocab": [
+      {
+        "pt": "rua",
+        "it": "strada"
+      },
+      {
+        "pt": "praça",
+        "it": "piazza"
+      },
+      {
+        "pt": "esquerda",
+        "it": "sinistra"
+      },
+      {
+        "pt": "direita",
+        "it": "destra"
+      },
+      {
+        "pt": "perto",
+        "it": "vicino"
+      },
+      {
+        "pt": "longe",
+        "it": "lontano"
+      }
+    ],
+    "phrases": [
+      "<b>Vira</b> à esquerda e depois <b>segue</b> em frente.",
+      "Onde <b>fica</b> a estação?",
+      "A minha casa <b>é</b> perto da escola.",
+      "O museu <b>fica</b> longe daqui."
+    ],
+    "quizzes": [
+      {
+        "type": "multipleChoice",
+        "q": "O que <b>significa</b> 'rua'?",
+        "options": [
+          "strada",
+          "piazza",
+          "sinistra",
+          "destra"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "fillBlank",
+        "q": "Completa: Eu ___ café ao pequeno-almoço.",
+        "answer": "bebo"
+      },
+      {
+        "type": "match",
+        "pairs": [
+          [
+            "praça",
+            "piazza"
+          ],
+          [
+            "esquerda",
+            "sinistra"
+          ]
+        ]
+      },
+      {
+        "type": "reorder",
+        "prompt": "Ordena a frase:",
+        "tokens": [
+          "Eu",
+          "vou",
+          "à",
+          "loja",
+          "hoje"
+        ],
+        "solution": [
+          "Eu",
+          "vou",
+          "à",
+          "loja",
+          "hoje"
+        ]
+      }
+    ],
+    "challenge": "Usa 5 palavras de hoje numa frase longa sobre o teu dia.",
+    "culturalNote": "Em Portugal, muitas palavras têm variantes do Brasil; ambas <b>são</b> compreendidas."
+  },
+  {
+    "title": "Lição 7 — Tempo e clima",
+    "vocab": [
+      {
+        "pt": "sol",
+        "it": "sole"
+      },
+      {
+        "pt": "chuva",
+        "it": "pioggia"
+      },
+      {
+        "pt": "frio",
+        "it": "freddo"
+      },
+      {
+        "pt": "calor",
+        "it": "caldo"
+      },
+      {
+        "pt": "vento",
+        "it": "vento"
+      },
+      {
+        "pt": "nublado",
+        "it": "nuvoloso"
+      }
+    ],
+    "phrases": [
+      "Hoje <b>faz</b> sol, mas amanhã <b>vai</b> <b>chover</b>.",
+      "No inverno <b>está</b> frio.",
+      "No verão eu <b>vou</b> à praia.",
+      "Se <b>estiver</b> vento, eu não <b>saio</b>."
+    ],
+    "quizzes": [
+      {
+        "type": "multipleChoice",
+        "q": "O que <b>significa</b> 'sol'?",
+        "options": [
+          "sole",
+          "pioggia",
+          "freddo",
+          "caldo"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "fillBlank",
+        "q": "Completa: Eu ___ café ao pequeno-almoço.",
+        "answer": "bebo"
+      },
+      {
+        "type": "match",
+        "pairs": [
+          [
+            "chuva",
+            "pioggia"
+          ],
+          [
+            "frio",
+            "freddo"
+          ]
+        ]
+      },
+      {
+        "type": "reorder",
+        "prompt": "Ordena a frase:",
+        "tokens": [
+          "Eu",
+          "vou",
+          "à",
+          "loja",
+          "hoje"
+        ],
+        "solution": [
+          "Eu",
+          "vou",
+          "à",
+          "loja",
+          "hoje"
+        ]
+      }
+    ],
+    "challenge": "Usa 5 palavras de hoje numa frase longa sobre o teu dia.",
+    "culturalNote": "Em Portugal, muitas palavras têm variantes do Brasil; ambas <b>são</b> compreendidas."
+  },
+  {
+    "title": "Lição 8 — Escola e estudo",
+    "vocab": [
+      {
+        "pt": "aula",
+        "it": "lezione"
+      },
+      {
+        "pt": "livro",
+        "it": "libro"
+      },
+      {
+        "pt": "caderno",
+        "it": "quaderno"
+      },
+      {
+        "pt": "caneta",
+        "it": "penna"
+      },
+      {
+        "pt": "professor/a",
+        "it": "insegnante"
+      },
+      {
+        "pt": "teste",
+        "it": "test"
+      }
+    ],
+    "phrases": [
+      "Hoje nós <b>temos</b> aula de português.",
+      "Eu <b>leio</b> o livro e <b>faço</b> os exercícios.",
+      "A professora <b>explica</b> muito bem.",
+      "Amanhã <b>há</b> um teste."
+    ],
+    "quizzes": [
+      {
+        "type": "multipleChoice",
+        "q": "O que <b>significa</b> 'aula'?",
+        "options": [
+          "lezione",
+          "libro",
+          "quaderno",
+          "penna"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "fillBlank",
+        "q": "Completa: Eu ___ café ao pequeno-almoço.",
+        "answer": "bebo"
+      },
+      {
+        "type": "match",
+        "pairs": [
+          [
+            "livro",
+            "libro"
+          ],
+          [
+            "caderno",
+            "quaderno"
+          ]
+        ]
+      },
+      {
+        "type": "reorder",
+        "prompt": "Ordena a frase:",
+        "tokens": [
+          "Eu",
+          "vou",
+          "à",
+          "loja",
+          "hoje"
+        ],
+        "solution": [
+          "Eu",
+          "vou",
+          "à",
+          "loja",
+          "hoje"
+        ]
+      }
+    ],
+    "challenge": "Usa 5 palavras de hoje numa frase longa sobre o teu dia.",
+    "culturalNote": "Em Portugal, muitas palavras têm variantes do Brasil; ambas <b>são</b> compreendidas."
+  },
+  {
+    "title": "Lição 9 — Transportes",
+    "vocab": [
+      {
+        "pt": "autocarro",
+        "it": "autobus"
+      },
+      {
+        "pt": "metro",
+        "it": "metropolitana"
+      },
+      {
+        "pt": "carro",
+        "it": "auto"
+      },
+      {
+        "pt": "bilhete",
+        "it": "biglietto"
+      },
+      {
+        "pt": "paragem",
+        "it": "fermata"
+      },
+      {
+        "pt": "horário",
+        "it": "orario"
+      }
+    ],
+    "phrases": [
+      "Eu <b>apanho</b> o autocarro às oito.",
+      "Onde <b>compro</b> o bilhete?",
+      "O metro <b>chega</b> rápido.",
+      "Hoje eu <b>vou</b> a pé."
+    ],
+    "quizzes": [
+      {
+        "type": "multipleChoice",
+        "q": "O que <b>significa</b> 'autocarro'?",
+        "options": [
+          "autobus",
+          "metropolitana",
+          "auto",
+          "biglietto"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "fillBlank",
+        "q": "Completa: Eu ___ café ao pequeno-almoço.",
+        "answer": "bebo"
+      },
+      {
+        "type": "match",
+        "pairs": [
+          [
+            "metro",
+            "metropolitana"
+          ],
+          [
+            "carro",
+            "auto"
+          ]
+        ]
+      },
+      {
+        "type": "reorder",
+        "prompt": "Ordena a frase:",
+        "tokens": [
+          "Eu",
+          "vou",
+          "à",
+          "loja",
+          "hoje"
+        ],
+        "solution": [
+          "Eu",
+          "vou",
+          "à",
+          "loja",
+          "hoje"
+        ]
+      }
+    ],
+    "challenge": "Usa 5 palavras de hoje numa frase longa sobre o teu dia.",
+    "culturalNote": "Em Portugal, muitas palavras têm variantes do Brasil; ambas <b>são</b> compreendidas."
+  },
+  {
+    "title": "Lição 10 — Casa",
+    "vocab": [
+      {
+        "pt": "casa",
+        "it": "casa"
+      },
+      {
+        "pt": "quarto",
+        "it": "camera"
+      },
+      {
+        "pt": "cozinha",
+        "it": "cucina"
+      },
+      {
+        "pt": "sala",
+        "it": "soggiorno"
+      },
+      {
+        "pt": "casa de banho",
+        "it": "bagno"
+      },
+      {
+        "pt": "janela",
+        "it": "finestra"
+      }
+    ],
+    "phrases": [
+      "Eu <b>limpo</b> a cozinha e <b>arrumo</b> o quarto.",
+      "A janela <b>está</b> aberta.",
+      "Nós <b>vemos</b> TV na sala.",
+      "Eu <b>tomo</b> banho de manhã."
+    ],
+    "quizzes": [
+      {
+        "type": "multipleChoice",
+        "q": "O que <b>significa</b> 'casa'?",
+        "options": [
+          "casa",
+          "camera",
+          "cucina",
+          "soggiorno"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "fillBlank",
+        "q": "Completa: Eu ___ café ao pequeno-almoço.",
+        "answer": "bebo"
+      },
+      {
+        "type": "match",
+        "pairs": [
+          [
+            "quarto",
+            "camera"
+          ],
+          [
+            "cozinha",
+            "cucina"
+          ]
+        ]
+      },
+      {
+        "type": "reorder",
+        "prompt": "Ordena a frase:",
+        "tokens": [
+          "Eu",
+          "vou",
+          "à",
+          "loja",
+          "hoje"
+        ],
+        "solution": [
+          "Eu",
+          "vou",
+          "à",
+          "loja",
+          "hoje"
+        ]
+      }
+    ],
+    "challenge": "Usa 5 palavras de hoje numa frase longa sobre o teu dia.",
+    "culturalNote": "Em Portugal, muitas palavras têm variantes do Brasil; ambas <b>são</b> compreendidas."
+  },
+  {
+    "title": "Lição 11 — Compras",
+    "vocab": [
+      {
+        "pt": "loja",
+        "it": "negozio"
+      },
+      {
+        "pt": "preço",
+        "it": "prezzo"
+      },
+      {
+        "pt": "barato",
+        "it": "economico"
+      },
+      {
+        "pt": "caro",
+        "it": "caro"
+      },
+      {
+        "pt": "tamanho",
+        "it": "taglia"
+      },
+      {
+        "pt": "troco",
+        "it": "resto"
+      }
+    ],
+    "phrases": [
+      "Quanto <b>custa</b>?",
+      "Eu <b>quero</b> este tamanho.",
+      "Pode <b>fazer</b> desconto?",
+      "Eu <b>pago</b> com cartão."
+    ],
+    "quizzes": [
+      {
+        "type": "multipleChoice",
+        "q": "O que <b>significa</b> 'loja'?",
+        "options": [
+          "negozio",
+          "prezzo",
+          "economico",
+          "caro"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "fillBlank",
+        "q": "Completa: Eu ___ café ao pequeno-almoço.",
+        "answer": "bebo"
+      },
+      {
+        "type": "match",
+        "pairs": [
+          [
+            "preço",
+            "prezzo"
+          ],
+          [
+            "barato",
+            "economico"
+          ]
+        ]
+      },
+      {
+        "type": "reorder",
+        "prompt": "Ordena a frase:",
+        "tokens": [
+          "Eu",
+          "vou",
+          "à",
+          "loja",
+          "hoje"
+        ],
+        "solution": [
+          "Eu",
+          "vou",
+          "à",
+          "loja",
+          "hoje"
+        ]
+      }
+    ],
+    "challenge": "Usa 5 palavras de hoje numa frase longa sobre o teu dia.",
+    "culturalNote": "Em Portugal, muitas palavras têm variantes do Brasil; ambas <b>são</b> compreendidas."
+  },
+  {
+    "title": "Lição 12 — Saúde básica",
+    "vocab": [
+      {
+        "pt": "dor",
+        "it": "dolore"
+      },
+      {
+        "pt": "farmácia",
+        "it": "farmacia"
+      },
+      {
+        "pt": "médico",
+        "it": "medico"
+      },
+      {
+        "pt": "receita",
+        "it": "ricetta"
+      },
+      {
+        "pt": "doente",
+        "it": "malato"
+      },
+      {
+        "pt": "febre",
+        "it": "febbre"
+      }
+    ],
+    "phrases": [
+      "Eu <b>tenho</b> dor de cabeça.",
+      "Onde <b>fica</b> a farmácia?",
+      "O médico <b>diz</b> para <b>descansar</b>.",
+      "Eu <b>preciso</b> de água."
+    ],
+    "quizzes": [
+      {
+        "type": "multipleChoice",
+        "q": "O que <b>significa</b> 'dor'?",
+        "options": [
+          "dolore",
+          "farmacia",
+          "medico",
+          "ricetta"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "fillBlank",
+        "q": "Completa: Eu ___ café ao pequeno-almoço.",
+        "answer": "bebo"
+      },
+      {
+        "type": "match",
+        "pairs": [
+          [
+            "farmácia",
+            "farmacia"
+          ],
+          [
+            "médico",
+            "medico"
+          ]
+        ]
+      },
+      {
+        "type": "reorder",
+        "prompt": "Ordena a frase:",
+        "tokens": [
+          "Eu",
+          "vou",
+          "à",
+          "loja",
+          "hoje"
+        ],
+        "solution": [
+          "Eu",
+          "vou",
+          "à",
+          "loja",
+          "hoje"
+        ]
+      }
+    ],
+    "challenge": "Usa 5 palavras de hoje numa frase longa sobre o teu dia.",
+    "culturalNote": "Em Portugal, muitas palavras têm variantes do Brasil; ambas <b>são</b> compreendidas."
+  },
+  {
+    "title": "Lição 13 — Tempo livre",
+    "vocab": [
+      {
+        "pt": "desporto",
+        "it": "sport"
+      },
+      {
+        "pt": "música",
+        "it": "musica"
+      },
+      {
+        "pt": "cinema",
+        "it": "cinema"
+      },
+      {
+        "pt": "dançar",
+        "it": "ballare"
+      },
+      {
+        "pt": "ler",
+        "it": "leggere"
+      },
+      {
+        "pt": "viajar",
+        "it": "viaggiare"
+      }
+    ],
+    "phrases": [
+      "Eu <b>gosto</b> de <b>dançar</b> e <b>ouvir</b> música.",
+      "Ao fim de semana eu <b>vou</b> ao cinema.",
+      "Eu <b>leio</b> um livro antes de <b>dormir</b>.",
+      "Nós <b>viajamos</b> uma vez por ano."
+    ],
+    "quizzes": [
+      {
+        "type": "multipleChoice",
+        "q": "O que <b>significa</b> 'desporto'?",
+        "options": [
+          "sport",
+          "musica",
+          "cinema",
+          "ballare"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "fillBlank",
+        "q": "Completa: Eu ___ café ao pequeno-almoço.",
+        "answer": "bebo"
+      },
+      {
+        "type": "match",
+        "pairs": [
+          [
+            "música",
+            "musica"
+          ],
+          [
+            "cinema",
+            "cinema"
+          ]
+        ]
+      },
+      {
+        "type": "reorder",
+        "prompt": "Ordena a frase:",
+        "tokens": [
+          "Eu",
+          "vou",
+          "à",
+          "loja",
+          "hoje"
+        ],
+        "solution": [
+          "Eu",
+          "vou",
+          "à",
+          "loja",
+          "hoje"
+        ]
+      }
+    ],
+    "challenge": "Usa 5 palavras de hoje numa frase longa sobre o teu dia.",
+    "culturalNote": "Em Portugal, muitas palavras têm variantes do Brasil; ambas <b>são</b> compreendidas."
+  },
+  {
+    "title": "Lição 14 — Profissões e verbos ‘ser/estar/ter’",
+    "vocab": [
+      {
+        "pt": "estudante",
+        "it": "studente"
+      },
+      {
+        "pt": "médico",
+        "it": "medico"
+      },
+      {
+        "pt": "engenheiro",
+        "it": "ingegnere"
+      },
+      {
+        "pt": "empregado de mesa",
+        "it": "cameriere"
+      },
+      {
+        "pt": "ser",
+        "it": "essere"
+      },
+      {
+        "pt": "estar",
+        "it": "stare"
+      }
+    ],
+    "phrases": [
+      "Eu <b>sou</b> estudante; o meu pai <b>é</b> engenheiro.",
+      "Hoje eu <b>estou</b> cansada, mas normalmente <b>estou</b> bem.",
+      "Eu <b>tenho</b> muitos trabalhos para <b>fazer</b>.",
+      "Ela <b>é</b> médica e <b>trabalha</b> num hospital."
+    ],
+    "quizzes": [
+      {
+        "type": "multipleChoice",
+        "q": "Escolhe a opção correta para completar: Eu ___ estudante.",
+        "options": [
+          "sou",
+          "estou",
+          "tenho",
+          "vai"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "fillBlank",
+        "q": "Completa: Amanhã eu ___ viajar para Lisboa.",
+        "answer": "vou"
+      },
+      {
+        "type": "match",
+        "pairs": [
+          [
+            "estudante",
+            "studente"
+          ],
+          [
+            "médico",
+            "medico"
+          ]
+        ]
+      },
+      {
+        "type": "reorder",
+        "prompt": "Ordena:",
+        "tokens": [
+          "Pode",
+          "trazer",
+          "a",
+          "conta",
+          "por",
+          "favor",
+          "?"
+        ],
+        "solution": [
+          "Pode",
+          "trazer",
+          "a",
+          "conta",
+          "por",
+          "favor",
+          "?"
+        ]
+      }
+    ],
+    "challenge": "Escreve 4 frases longas usando o verbo principal de hoje em <b>negrito</b>.",
+    "culturalNote": "No português europeu, o ‘tu’ <b>conjuga-se</b> diferente de ‘você’; observa os finais dos verbos."
+  },
+  {
+    "title": "Lição 15 — Verbos irregulares (ir, vir, ver) — básico",
+    "vocab": [
+      {
+        "pt": "ir",
+        "it": "andare"
+      },
+      {
+        "pt": "vir",
+        "it": "venire"
+      },
+      {
+        "pt": "ver",
+        "it": "vedere"
+      },
+      {
+        "pt": "ontem",
+        "it": "ieri"
+      },
+      {
+        "pt": "hoje",
+        "it": "oggi"
+      },
+      {
+        "pt": "amanhã",
+        "it": "domani"
+      }
+    ],
+    "phrases": [
+      "Eu <b>vou</b> à escola hoje e amanhã <b>vou</b> ao cinema.",
+      "Queres <b>vir</b> comigo?",
+      "Ontem eu <b>vi</b> um filme muito bom.",
+      "Nós <b>vemos</b> os amigos ao fim de semana."
+    ],
+    "quizzes": [
+      {
+        "type": "multipleChoice",
+        "q": "Escolhe a opção correta para completar: Eu ___ estudante.",
+        "options": [
+          "sou",
+          "estou",
+          "tenho",
+          "vai"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "fillBlank",
+        "q": "Completa: Amanhã eu ___ viajar para Lisboa.",
+        "answer": "vou"
+      },
+      {
+        "type": "match",
+        "pairs": [
+          [
+            "ir",
+            "andare"
+          ],
+          [
+            "vir",
+            "venire"
+          ]
+        ]
+      },
+      {
+        "type": "reorder",
+        "prompt": "Ordena:",
+        "tokens": [
+          "Pode",
+          "trazer",
+          "a",
+          "conta",
+          "por",
+          "favor",
+          "?"
+        ],
+        "solution": [
+          "Pode",
+          "trazer",
+          "a",
+          "conta",
+          "por",
+          "favor",
+          "?"
+        ]
+      }
+    ],
+    "challenge": "Escreve 4 frases longas usando o verbo principal de hoje em <b>negrito</b>.",
+    "culturalNote": "No português europeu, o ‘tu’ <b>conjuga-se</b> diferente de ‘você’; observa os finais dos verbos."
+  },
+  {
+    "title": "Lição 16 — Tempo presente e futuro com ‘ir + infinitivo’",
+    "vocab": [
+      {
+        "pt": "viajar",
+        "it": "viaggiare"
+      },
+      {
+        "pt": "estudar",
+        "it": "studiare"
+      },
+      {
+        "pt": "comer",
+        "it": "mangiare"
+      },
+      {
+        "pt": "beber",
+        "it": "bere"
+      },
+      {
+        "pt": "falar",
+        "it": "parlare"
+      },
+      {
+        "pt": "amanhã",
+        "it": "domani"
+      }
+    ],
+    "phrases": [
+      "Eu <b>vou</b> <b>estudar</b> muito esta semana.",
+      "Amanhã nós <b>vamos</b> <b>viajar</b> para Lisboa.",
+      "Hoje eu <b>como</b> pouco, mas amanhã <b>vou</b> <b>comer</b> mais.",
+      "Ela <b>vai</b> <b>falar</b> com a professora."
+    ],
+    "quizzes": [
+      {
+        "type": "multipleChoice",
+        "q": "Escolhe a opção correta para completar: Eu ___ estudante.",
+        "options": [
+          "sou",
+          "estou",
+          "tenho",
+          "vai"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "fillBlank",
+        "q": "Completa: Amanhã eu ___ viajar para Lisboa.",
+        "answer": "vou"
+      },
+      {
+        "type": "match",
+        "pairs": [
+          [
+            "viajar",
+            "viaggiare"
+          ],
+          [
+            "estudar",
+            "studiare"
+          ]
+        ]
+      },
+      {
+        "type": "reorder",
+        "prompt": "Ordena:",
+        "tokens": [
+          "Pode",
+          "trazer",
+          "a",
+          "conta",
+          "por",
+          "favor",
+          "?"
+        ],
+        "solution": [
+          "Pode",
+          "trazer",
+          "a",
+          "conta",
+          "por",
+          "favor",
+          "?"
+        ]
+      }
+    ],
+    "challenge": "Escreve 4 frases longas usando o verbo principal de hoje em <b>negrito</b>.",
+    "culturalNote": "No português europeu, o ‘tu’ <b>conjuga-se</b> diferente de ‘você’; observa os finais dos verbos."
+  },
+  {
+    "title": "Lição 17 — Passado simples — noções (fui, estive, tive)",
+    "vocab": [
+      {
+        "pt": "ontem",
+        "it": "ieri"
+      },
+      {
+        "pt": "fui",
+        "it": "sono andato/a"
+      },
+      {
+        "pt": "estive",
+        "it": "sono stato/a"
+      },
+      {
+        "pt": "tive",
+        "it": "ho avuto"
+      },
+      {
+        "pt": "comprei",
+        "it": "ho comprato"
+      },
+      {
+        "pt": "fiz",
+        "it": "ho fatto"
+      }
+    ],
+    "phrases": [
+      "Ontem eu <b>fui</b> ao centro e <b>comprei</b> um livro.",
+      "Na semana passada eu <b>estive</b> doente.",
+      "Eu <b>tive</b> um teste difícil.",
+      "Depois eu <b>fiz</b> os trabalhos de casa."
+    ],
+    "quizzes": [
+      {
+        "type": "multipleChoice",
+        "q": "Escolhe a opção correta para completar: Eu ___ estudante.",
+        "options": [
+          "sou",
+          "estou",
+          "tenho",
+          "vai"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "fillBlank",
+        "q": "Completa: Amanhã eu ___ viajar para Lisboa.",
+        "answer": "vou"
+      },
+      {
+        "type": "match",
+        "pairs": [
+          [
+            "ontem",
+            "ieri"
+          ],
+          [
+            "fui",
+            "sono andato/a"
+          ]
+        ]
+      },
+      {
+        "type": "reorder",
+        "prompt": "Ordena:",
+        "tokens": [
+          "Pode",
+          "trazer",
+          "a",
+          "conta",
+          "por",
+          "favor",
+          "?"
+        ],
+        "solution": [
+          "Pode",
+          "trazer",
+          "a",
+          "conta",
+          "por",
+          "favor",
+          "?"
+        ]
+      }
+    ],
+    "challenge": "Escreve 4 frases longas usando o verbo principal de hoje em <b>negrito</b>.",
+    "culturalNote": "No português europeu, o ‘tu’ <b>conjuga-se</b> diferente de ‘você’; observa os finais dos verbos."
+  },
+  {
+    "title": "Lição 18 — Perguntas úteis",
+    "vocab": [
+      {
+        "pt": "onde?",
+        "it": "dove?"
+      },
+      {
+        "pt": "quando?",
+        "it": "quando?"
+      },
+      {
+        "pt": "quanto?",
+        "it": "quanto?"
+      },
+      {
+        "pt": "porquê?",
+        "it": "perché?"
+      },
+      {
+        "pt": "como?",
+        "it": "come?"
+      },
+      {
+        "pt": "quem?",
+        "it": "chi?"
+      }
+    ],
+    "phrases": [
+      "<b>Onde</b> <b>fica</b> a paragem do autocarro?",
+      "<b>Quanto</b> <b>custa</b> este bilhete?",
+      "<b>Quando</b> <b>sais</b> de casa?",
+      "<b>Como</b> <b>vais</b> para a escola?"
+    ],
+    "quizzes": [
+      {
+        "type": "multipleChoice",
+        "q": "Escolhe a opção correta para completar: Eu ___ estudante.",
+        "options": [
+          "sou",
+          "estou",
+          "tenho",
+          "vai"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "fillBlank",
+        "q": "Completa: Amanhã eu ___ viajar para Lisboa.",
+        "answer": "vou"
+      },
+      {
+        "type": "match",
+        "pairs": [
+          [
+            "onde?",
+            "dove?"
+          ],
+          [
+            "quando?",
+            "quando?"
+          ]
+        ]
+      },
+      {
+        "type": "reorder",
+        "prompt": "Ordena:",
+        "tokens": [
+          "Pode",
+          "trazer",
+          "a",
+          "conta",
+          "por",
+          "favor",
+          "?"
+        ],
+        "solution": [
+          "Pode",
+          "trazer",
+          "a",
+          "conta",
+          "por",
+          "favor",
+          "?"
+        ]
+      }
+    ],
+    "challenge": "Escreve 4 frases longas usando o verbo principal de hoje em <b>negrito</b>.",
+    "culturalNote": "No português europeu, o ‘tu’ <b>conjuga-se</b> diferente de ‘você’; observa os finais dos verbos."
+  },
+  {
+    "title": "Lição 19 — No restaurante",
+    "vocab": [
+      {
+        "pt": "menu",
+        "it": "menu"
+      },
+      {
+        "pt": "conta",
+        "it": "conto"
+      },
+      {
+        "pt": "prato do dia",
+        "it": "piatto del giorno"
+      },
+      {
+        "pt": "entrada",
+        "it": "antipasto"
+      },
+      {
+        "pt": "sobremesa",
+        "it": "dessert"
+      },
+      {
+        "pt": "garçom/empregado",
+        "it": "cameriere"
+      }
+    ],
+    "phrases": [
+      "Eu <b>quero</b> o prato do dia, por favor.",
+      "Pode <b>trazer</b> a conta?",
+      "Nós <b>partilhamos</b> a sobremesa.",
+      "Eu <b>prefiro</b> água sem gás."
+    ],
+    "quizzes": [
+      {
+        "type": "multipleChoice",
+        "q": "Escolhe a opção correta para completar: Eu ___ estudante.",
+        "options": [
+          "sou",
+          "estou",
+          "tenho",
+          "vai"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "fillBlank",
+        "q": "Completa: Amanhã eu ___ viajar para Lisboa.",
+        "answer": "vou"
+      },
+      {
+        "type": "match",
+        "pairs": [
+          [
+            "menu",
+            "menu"
+          ],
+          [
+            "conta",
+            "conto"
+          ]
+        ]
+      },
+      {
+        "type": "reorder",
+        "prompt": "Ordena:",
+        "tokens": [
+          "Pode",
+          "trazer",
+          "a",
+          "conta",
+          "por",
+          "favor",
+          "?"
+        ],
+        "solution": [
+          "Pode",
+          "trazer",
+          "a",
+          "conta",
+          "por",
+          "favor",
+          "?"
+        ]
+      }
+    ],
+    "challenge": "Escreve 4 frases longas usando o verbo principal de hoje em <b>negrito</b>.",
+    "culturalNote": "No português europeu, o ‘tu’ <b>conjuga-se</b> diferente de ‘você’; observa os finais dos verbos."
+  },
+  {
+    "title": "Lição 20 — Planos e convites",
+    "vocab": [
+      {
+        "pt": "convite",
+        "it": "invito"
+      },
+      {
+        "pt": "encontro",
+        "it": "incontro"
+      },
+      {
+        "pt": "amanhã",
+        "it": "domani"
+      },
+      {
+        "pt": "depois",
+        "it": "dopo"
+      },
+      {
+        "pt": "antes",
+        "it": "prima"
+      },
+      {
+        "pt": "talvez",
+        "it": "forse"
+      }
+    ],
+    "phrases": [
+      "Queres <b>ir</b> ao cinema amanhã?",
+      "Talvez eu <b>possa</b> depois das seis.",
+      "Antes eu <b>tenho</b> de <b>estudar</b>.",
+      "Vamos <b>combinar</b> pelo telefone."
+    ],
+    "quizzes": [
+      {
+        "type": "multipleChoice",
+        "q": "Escolhe a opção correta para completar: Eu ___ estudante.",
+        "options": [
+          "sou",
+          "estou",
+          "tenho",
+          "vai"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "fillBlank",
+        "q": "Completa: Amanhã eu ___ viajar para Lisboa.",
+        "answer": "vou"
+      },
+      {
+        "type": "match",
+        "pairs": [
+          [
+            "convite",
+            "invito"
+          ],
+          [
+            "encontro",
+            "incontro"
+          ]
+        ]
+      },
+      {
+        "type": "reorder",
+        "prompt": "Ordena:",
+        "tokens": [
+          "Pode",
+          "trazer",
+          "a",
+          "conta",
+          "por",
+          "favor",
+          "?"
+        ],
+        "solution": [
+          "Pode",
+          "trazer",
+          "a",
+          "conta",
+          "por",
+          "favor",
+          "?"
+        ]
+      }
+    ],
+    "challenge": "Escreve 4 frases longas usando o verbo principal de hoje em <b>negrito</b>.",
+    "culturalNote": "No português europeu, o ‘tu’ <b>conjuga-se</b> diferente de ‘você’; observa os finais dos verbos."
+  },
+  {
+    "title": "Lição 20 — Revisão geral A1",
+    "vocab": [
+      {
+        "pt": "revisão",
+        "it": "ripasso"
+      },
+      {
+        "pt": "objetivo",
+        "it": "obiettivo"
+      },
+      {
+        "pt": "vocabulário",
+        "it": "vocabolario"
+      },
+      {
+        "pt": "gramática",
+        "it": "grammatica"
+      },
+      {
+        "pt": "prática",
+        "it": "pratica"
+      },
+      {
+        "pt": "conversa",
+        "it": "conversazione"
+      }
+    ],
+    "phrases": [
+      "Hoje nós <b>revemos</b> os verbos principais e <b>criamos</b> frases longas.",
+      "Tu <b>consegues</b> <b>falar</b> sobre a tua rotina e a tua família.",
+      "Nós <b>praticamos</b> perguntas e respostas.",
+      "Depois <b>vais</b> <b>fazer</b> um mini-diálogo."
+    ],
+    "quizzes": [
+      {
+        "type": "multipleChoice",
+        "q": "Escolhe a tradução de ‘prática’:",
+        "options": [
+          "pratica",
+          "pratica (sport)",
+          "pranzo",
+          "partita"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "type": "fillBlank",
+        "q": "Completa: Eu ___ estudar e depois ___ dormir.",
+        "answer": "vou;vou"
+      },
+      {
+        "type": "match",
+        "pairs": [
+          [
+            "gramática",
+            "grammatica"
+          ],
+          [
+            "conversa",
+            "conversazione"
+          ]
+        ]
+      },
+      {
+        "type": "reorder",
+        "prompt": "Ordena:",
+        "tokens": [
+          "Eu",
+          "consigo",
+          "falar",
+          "sobre",
+          "a",
+          "minha",
+          "rotina"
+        ],
+        "solution": [
+          "Eu",
+          "consigo",
+          "falar",
+          "sobre",
+          "a",
+          "minha",
+          "rotina"
+        ]
+      }
+    ],
+    "challenge": "Faz um diálogo (8–10 linhas) sobre o teu dia, usando pelo menos 5 verbos em <b>negrito</b>.",
+    "culturalNote": "Parabéns! Em Portugal, é comum <b>cumprimentar</b> com dois beijos entre amigos próximos (varia por região)."
+  }
+]

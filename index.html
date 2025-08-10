@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#FFA726"/>
+  <title>PT A1 — 15 minuti al giorno</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="brand">
+      <img src="icons/icon-192.png" alt="PT A1" class="logo"/>
+      <div>
+        <h1>Português A1</h1>
+        <p>15 minuti • 20 lezioni • sfide quotidiane</p>
+      </div>
+    </div>
+    <button id="installBtn" class="btn secondary" hidden>Installa</button>
+  </header>
+
+  <main id="app">
+    <section class="card" id="today">
+      <div class="row between">
+        <div>
+          <h2 id="lessonTitle">Lezione</h2>
+          <p id="lessonMeta"></p>
+        </div>
+        <div class="streak">
+          🔥 <span id="streakCount">0</span> giorni
+        </div>
+      </div>
+      <div class="progress">
+        <div id="progressBar"></div>
+      </div>
+      <div id="timer">⏱️ 15:00</div>
+      <div id="lessonContainer"></div>
+      <div class="actions">
+        <button id="prevBtn" class="btn tertiary">◀︎</button>
+        <button id="nextBtn" class="btn">Avanti ▶︎</button>
+      </div>
+    </section>
+
+    <section class="card" id="challenge">
+      <h3>Sfida del giorno</h3>
+      <p id="dailyChallenge"></p>
+    </section>
+
+    <section class="card" id="notes">
+      <h3>Curiosità culturale</h3>
+      <p id="culturalNote"></p>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <button class="link" id="resetProgress">Azzera progresso</button>
+    <span>•</span>
+    <a class="link" href="https://github.com/" target="_blank" rel="noopener">Base GitHub Pages</a>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
